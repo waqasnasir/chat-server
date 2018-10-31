@@ -1,0 +1,19 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "description": "chat application server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waqasnasir/chat-server.git"
+  },
+  "author": "ahmed waqas nasir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waqasnasir/chat-server/issues"
+  },
+  "homepage": "https://github.com/waqasnasir/chat-server#readme"
+}
